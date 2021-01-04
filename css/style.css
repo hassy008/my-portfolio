@@ -43,7 +43,7 @@ body {
 
 .top-banner {
     /* border: 1px solid red; */
-    background-image: url("/img/top-banner.png");
+    background-image: url("../img/top-banner.png");
     background-repeat: no-repeat;
 }
 
@@ -84,7 +84,7 @@ h4 {
 
 .middle-banner {
     /* border: 1px solid red; */
-    background-image: url("/img/dream-bg.png");
+    background-image: url("../img/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     margin-top: 10px;
@@ -94,6 +94,8 @@ h4 {
     height: 550px;
     margin-bottom: 100px;
     padding-bottom: 150px;
+    background-image: url("../img/exp-bg.png");
+    background-repeat: no-repeat;
 }
 
 .experiences-title {
