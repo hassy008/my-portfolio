@@ -96,6 +96,7 @@ h4 {
     padding-bottom: 150px;
     background-image: url("../img/exp-bg.png");
     background-repeat: no-repeat;
+    background-position: left;
 }
 
 .experiences-title {
